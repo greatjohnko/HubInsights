@@ -1,0 +1,7 @@
+{
+  "name": "HubInsights Marketplace",
+  "description": "A verified marketplace for tech training hubs, trainees, and employers featuring data-driven insights, verified reviews, and talent discovery.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
